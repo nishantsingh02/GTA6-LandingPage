@@ -1,6 +1,7 @@
-Here’s a focused and professional `README.md` for your **GTA VI Landing Page** project:
+# GTA VI Landing Page
 
-```markdown
+Live Preview: https://nishuplaysgta6.netlify.app
+
 # GTA VI Landing Page
 
 A visually immersive and responsive landing page inspired by Grand Theft Auto VI. This project highlights cinematic animations, layered visuals, and modern UI/UX using GSAP and React.
